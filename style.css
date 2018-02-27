@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  margin-top: 3rem;
+  color: white;
+  background-color: #1f4409; 
+  font-family: Abel;
+}
+
+/*heading*/
+h1{
+  font-family: 'Roboto Mono';
+}
+
+/*random button*/
+#random{
+  background-color: #1f4409;
+  border: #1f4409;
+  color: white;
+  margin: 2rem;
+  font-size: 1.75rem;
+}
+#random:hover{
+  color: #c3ceb9;
+}
+
+/*magnifying glass*/
+#magGlass{
+  background-color: #1f4409;
+  border: #1f4409;
+  color: white;
+  margin-bottom: 1rem;
+}
+
+#magGlass:hover{
+  color: #c3ceb9;
+}
+
